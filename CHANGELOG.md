@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.17.0](https://github.com/googleapis/genai-toolbox/compare/v0.16.0...v0.17.0) (2025-10-01)
+
+
+### Features
+
+* Add metadata in MCP Manifest for Toolbox auth ([#1395](https://github.com/googleapis/genai-toolbox/issues/1395)) ([0b3dac4](https://github.com/googleapis/genai-toolbox/commit/0b3dac41322f7aaa5a19df571686fa8fd4338ca5))
+
+
+### Bug Fixes
+
+* Added google_ml_integration extension to use alloydb ai-nl support api ([#1445](https://github.com/googleapis/genai-toolbox/issues/1445)) ([dbc477a](https://github.com/googleapis/genai-toolbox/commit/dbc477ab0f832495cf51f73ea16ae363472d6eed))
+* Remove duplicated build type in Dockerfile ([#1598](https://github.com/googleapis/genai-toolbox/issues/1598)) ([b43c945](https://github.com/googleapis/genai-toolbox/commit/b43c94575d86aa65b0528d59f9b41d30b439fee5))
+* **sources/looker:** Allow Looker to be configured without setting a Client Id or Secret ([#1496](https://github.com/googleapis/genai-toolbox/issues/1496)) ([67d8221](https://github.com/googleapis/genai-toolbox/commit/67d8221a2e780df54a81f0f7e8f7e41e4bf1a82e))
+* **tools/looker:** Refactor run-inline-query logic to helper function ([#1497](https://github.com/googleapis/genai-toolbox/issues/1497)) ([62af39d](https://github.com/googleapis/genai-toolbox/commit/62af39d751443eb758586663969b162c868a233f))
+
 ## [0.16.0](https://github.com/googleapis/genai-toolbox/compare/v0.15.0...v0.16.0) (2025-09-25)
 
 
